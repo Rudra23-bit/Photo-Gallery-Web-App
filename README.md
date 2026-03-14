@@ -2,6 +2,7 @@
 
 A responsive **Photo Gallery Web Application** built with **React, Vite, and Tailwind CSS**.  
 The app fetches images from the Picsum Photos API and displays them in a responsive grid with real-time search and a favourites feature.
+### Live link of Photo Gallery Web App:(https://photogallerywebapp23.netlify.app/)
 
 ---
 
