@@ -73,9 +73,25 @@ This separates data fetching logic from UI components.
 
 
 
+
+
+
+
+
+
+
 ### 8. For Tablet the screen while look like this:
 
 ![image alt](https://github.com/Rudra23-bit/Photo-Gallery-Web-App/blob/main/Screenshot%202026-03-14%20112732.png?raw=true)
+
+
+
+
+
+
+
+
+
 
 
 ### 8. For Mobile the screen while look like this:
